@@ -2,6 +2,25 @@
 
 Edumate is a Flutter mobile app that connects to a locally running RAG (Retrieval Augmented Generation) backend with ngrok or local Wi-Fi IP, with offline functionality using cached Q&A pairs. Your AI Learning Assistant for educational content and knowledge retrieval.
 
+---
+
+## 📱 App UI Preview
+
+### 🏠 Splash & Welcome Screens
+| Splash Screen | Welcome Screen | Offline Indicator |
+|----------------|----------------|-------------------|
+| ![Splash](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM.jpeg) | ![Welcome](ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(1).jpeg) | ![Offline](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(2).jpeg) |
+
+### 💬 Chat Interface
+| English Response | Malayalam Response |
+|------------------|--------------------|
+| ![English Chat](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(3).jpeg) | ![Malayalam Chat](WhatsApp%20Image%202025-11-11%20at%209.17.11%20AM.jpeg) |
+
+### ⚙️ Settings Screen
+| API Configuration | Connected Status |
+|------------------|------------------|
+| ![Settings](WhatsApp%20Image%202025-11-11%20at%209.17.11%20AM%20(1).jpeg) | ![Connected](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(4).jpeg) |
+
 ## Features
 
 - **Online Mode**: Connects to FastAPI backend running phi-2 + NLLB translation + hybrid retrieval model
