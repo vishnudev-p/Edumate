@@ -9,7 +9,7 @@ Edumate is a Flutter mobile app that connects to a locally running RAG (Retrieva
 ### 🏠 Splash & Welcome Screens
 | Splash Screen | Welcome Screen | Offline Indicator |
 |----------------|----------------|-------------------|
-| ![Splash](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM.jpeg) | ![Welcome](ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(1).jpeg) | ![Offline](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(2).jpeg) |
+| ![Splash](ui/WhatsApp Image 2025-11-11 at 9.17.10 AM (3).jpeg) | ![Welcome](ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(1).jpeg) | ![Offline](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(2).jpeg) |
 
 ### 💬 Chat Interface
 | English Response | Malayalam Response |
