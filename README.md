@@ -6,20 +6,30 @@ Edumate is a Flutter mobile app that connects to a locally running RAG (Retrieva
 
 ## 📱 App UI Preview
 
-### 🏠 Splash & Welcome Screens
-| Splash Screen | Welcome Screen | Offline Indicator |
-|----------------|----------------|-------------------|
-| ![Splash](ui/WhatsApp Image 2025-11-11 at 9.17.10 AM (3).jpeg) | ![Welcome](ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(1).jpeg) | ![Offline](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(2).jpeg) |
+### 🟦 Splash & Welcome Screens
+<p align="center">
+  <img src="ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM.jpeg" alt="Splash Screen" width="250"/>
+  <img src="ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(1).jpeg" alt="Welcome Screen" width="250"/>
+  <img src="ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(2).jpeg" alt="Offline Indicator" width="250"/>
+</p>
+
+---
 
 ### 💬 Chat Interface
-| English Response | Malayalam Response |
-|------------------|--------------------|
-| ![English Chat](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(3).jpeg) | ![Malayalam Chat](WhatsApp%20Image%202025-11-11%20at%209.17.11%20AM.jpeg) |
+<p align="center">
+  <img src="ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(3).jpeg" alt="Chat Screen English" width="250"/>
+  <img src="ui/WhatsApp%20Image%202025-11-11%20at%209.17.11%20AM.jpeg" alt="Chat Screen Malayalam" width="250"/>
+</p>
+
+---
 
 ### ⚙️ Settings Screen
-| API Configuration | Connected Status |
-|------------------|------------------|
-| ![Settings](WhatsApp%20Image%202025-11-11%20at%209.17.11%20AM%20(1).jpeg) | ![Connected](WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(4).jpeg) |
+<p align="center">
+  <img src="ui/WhatsApp%20Image%202025-11-11%20at%209.17.11%20AM%20(1).jpeg" alt="API Configuration" width="250"/>
+  <img src="ui/WhatsApp%20Image%202025-11-11%20at%209.17.10%20AM%20(4).jpeg" alt="Connected View" width="250"/>
+</p>
+
+---
 
 ## Features
 
